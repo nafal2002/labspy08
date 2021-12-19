@@ -167,6 +167,6 @@ menu()
 ```
 
 #### Flowchart
-![Gambar6](screenshots/flow.png)
+![Gambar6](screenshots/flow.PNG)
 
 ## Sekian dan Terima Kasih
